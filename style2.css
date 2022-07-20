@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 900;
+    padding: 20px;
+    line-height: 25px;
+}
+h2 {
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 100;
+    padding: 10px;
+    line-height: 40px;
+}
+.a {
+    border-bottom: 3px double black;
+}
+a {
+    text-decoration-line: none;
+    color: black;
+}
